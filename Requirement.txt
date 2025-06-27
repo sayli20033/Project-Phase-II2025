@@ -1,0 +1,10 @@
+torch
+transformers
+fastapi
+uvicorn
+gradio
+regex
+requests
+python-multipart
+pydantic
+ipython
